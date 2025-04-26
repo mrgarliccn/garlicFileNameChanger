@@ -1,0 +1,2 @@
+# garlicFileNameChanger
+一个适用于批量修改单一文件夹下剧集名称的python脚本

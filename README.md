@@ -1,5 +1,5 @@
-# garlicFileNameChanger
-GarlicFileNameChanger（大蒜文件名修改器）发布说明
+# garlicFileNameChanger（大蒜君的文件名修改器）
+GarlicFileNameChanger（大蒜君的文件名修改器）发布说明
 
 v1.0：
 一个能够批量修改文件名称的python脚本，支持用户自行输入剧集名称后自动提取集数进行规范化命名，以方便私有云及各类播放器自动识别匹配剧集。运行环境python 3.10.1，v1.0版本支持功能清单如下：
